@@ -4,15 +4,11 @@ I'm a software engineer passionate about building AI-driven solutions to superch
 
 - 🛠️ **Main Languages:** Python, Go
 - ☁️ **Current Role:** Member of the Azure Kubernetes Service (AKS) team at Microsoft
-- 🏢 **Previous Experience:**
-  - **Snap Inc.** — Content Infrastructure Team
-  - **Amazon** — AWS Lex Team
 
 ---
 
 ## 💼 Experience
 
-- **Microsoft** — Azure Kubernetes Service (AKS)
 - **Snap Inc.** — Content Infrastructure
 - **Amazon** — AWS Lex
 
