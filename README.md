@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Kevin Cho 👋
 
-<!--
-**chokevin/chokevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer passionate about building AI-driven solutions to supercharge productivity. My expertise centers around artificial intelligence and large language models, with a strong focus on leveraging these technologies to solve real-world challenges.
 
-Here are some ideas to get you started:
+- 🛠️ **Main Languages:** Python, Go
+- ☁️ **Current Role:** Member of the Azure Kubernetes Service (AKS) team at Microsoft
+- 🏢 **Previous Experience:**
+  - **Snap Inc.** — Content Infrastructure Team
+  - **Amazon** — AWS Lex Team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Experience
+
+- **Microsoft** — Azure Kubernetes Service (AKS)
+- **Snap Inc.** — Content Infrastructure
+- **Amazon** — AWS Lex
+
+## 🌱 What I'm Working On
+Currently developing AI and LLM-powered tools that help teams be more productive and efficient.
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chojskevin/)
+
+---
+
+*Always exploring new ways AI can accelerate innovation and make life easier for developers and users alike.*
