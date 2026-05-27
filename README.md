@@ -1,23 +1,22 @@
-# Hi, I'm Kevin Cho 👋
+# Hi, I'm Kevin Cho
 
-I'm a software engineer passionate about building AI-driven solutions to supercharge productivity. My expertise centers around artificial intelligence and large language models, with a strong focus on leveraging these technologies to solve real-world challenges.
+I'm an AI infrastructure engineer focused on Kubernetes, GPU systems, and developer tooling for reliable AI workloads. My work spans Azure Kubernetes Service (AKS), distributed training and inference infrastructure, scheduling systems, runtime performance, and agent-assisted engineering workflows.
 
-- 🛠️ **Main Languages:** Python, Go
-- ☁️ **Current Role:** Member of the Azure Kubernetes Service (AKS) team at Microsoft
+I specialize in turning complex research and platform ideas into practical systems that can be tested, operated, and improved in real environments. I bring a systems-level perspective across cloud infrastructure, ML runtimes, and developer experience, with an emphasis on reliability, observability, and repeatable engineering practices.
 
----
+## What I'm focused on
 
-## 💼 Experience
+- GPU orchestration and scheduling for AI workloads
+- Kubernetes-native infrastructure for distributed training and inference
+- Runtime performance, reliability, and production readiness
+- Developer tools and agent workflows that make engineering teams more effective
 
-- **Snap Inc.** — Content Infrastructure
-- **Amazon** — AWS Lex
+## Background
 
-## 🌱 What I'm Working On
-Currently developing AI and LLM-powered tools that help teams be more productive and efficient.
+- **Current role:** Member of the Azure Kubernetes Service (AKS) team at Microsoft
+- **Previous:** Snap Inc. — Content Infrastructure
+- **Previous:** Amazon — AWS Lex
 
-## 📫 Connect with Me
+## Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chojskevin/)
-
----
-
-*Always exploring new ways AI can accelerate innovation and make life easier for developers and users alike.*
